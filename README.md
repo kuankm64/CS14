@@ -3,7 +3,7 @@
 Contributor 1 : modify line 3
 
 # Commands
-1. `git init` - initializes a git repository
+1. `git init` - initializes a git repository [Contributor 2: modify line6]
 2. `git status` - shows changes made to repository, categorised by tracked/untracked.
 3. `git diff`
 4. `git add <filename>` 
