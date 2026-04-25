@@ -8,7 +8,7 @@ Contributor 1 : modify line 3
 3. `git diff`
 4. `git add <filename>` 
 5. `git reset <filename>`
-6. `git commit -m "<descriptive message>"`
+6. `git commit -m "<hello>"`
 7. `git log`
 8. `git branch <branch name>`
 9. `git checkout <branch name>`
@@ -16,4 +16,4 @@ Contributor 1 : modify line 3
 11. `git branch -d <branch name>`
 
 # Code Contributors
-- <alias of developer>
+- Wilson
