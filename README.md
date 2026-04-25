@@ -1,6 +1,6 @@
 # CS14
 # Overview
-Group activity to familiarize with git
+Contributor 1 : modify line 3
 
 # Commands
 1. `git init` - initializes a git repository
