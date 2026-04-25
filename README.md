@@ -16,4 +16,4 @@ Contributor 1 : modify line 3
 11. `git branch -d <branch name>`
 
 # Code Contributors
-- <alias of developer>
+- kuankm
