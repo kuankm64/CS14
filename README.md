@@ -8,7 +8,7 @@ Contributor 1 : modify line 3
 3. `git diff`
 4. `git add <filename>` 
 5. `git reset <filename>`
-6. `git commit -m "<hello 2>"`
+6. `git commit -m "<hello 3>"`
 7. `git log`
 8. `git branch <branch name>`
 9. `git checkout <branch name>`
