@@ -17,5 +17,6 @@ Contributor 1 : modify line 3
 
 # Code Contributors
 - Wilson
+- Wilson 2
 - Zachary
 - Zac2
