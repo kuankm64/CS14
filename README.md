@@ -3,12 +3,12 @@
 Contributor 1 : modify line 3
 
 # Commands
-1. `git init` - initializes a git repository
+1. `git init` - initializes a git repository [Contributor 2: modify line6]
 2. `git status` - shows changes made to repository, categorised by tracked/untracked.
 3. `git diff`
 4. `git add <filename>` 
 5. `git reset <filename>`
-6. `git commit -m "<descriptive message>"`
+6. `git commit -m "<hello 2>"`
 7. `git log`
 8. `git branch <branch name>`
 9. `git checkout <branch name>`
@@ -16,4 +16,4 @@ Contributor 1 : modify line 3
 11. `git branch -d <branch name>`
 
 # Code Contributors
-- kuankm
+- <alias of developer>
